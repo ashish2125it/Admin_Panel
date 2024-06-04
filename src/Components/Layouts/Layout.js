@@ -27,7 +27,7 @@ const Layout = () => {
             <input type="text" placeholder="Enter here" />
           </div>
           <div className={css.profile}>
-         <img src="./profile.jpg" alt="" />
+         // <img src="https://media.licdn.com/dms/image/D4D03AQEcq_Wt-RNUOQ/profile-displayphoto-shrink_400_400/0/1692991772451?e=1723075200&v=beta&t=J0QjBaD70dZ2q3SHBCfvjn8byN8bRKFm_yA5GJkYybU" alt="" />
 
             <div className={css.details}>
               <span>Ashish Khurana</span>
